@@ -1,0 +1,35 @@
+{
+  "name": "solidity-roles-lib",
+  "version": "0.0.1",
+  "description": "Roles Shared Library",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test",
+    "coverage": "./node_modules/.bin/solidity-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChronoBank/solidity-roles-lib.git"
+  },
+  "keywords": [
+    "solidity",
+    "chronobank",
+    "laborx"
+  ],
+  "author": "LaborX PTY",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ChronoBank/solidity-roles-lib/issues"
+  },
+  "homepage": "https://github.com/ChronoBank/solidity-roles-lib#readme",
+  "dependencies": {
+    "solidity-storage-lib": "ChronoBank/solidity-storage-lib.git#v0.1.2",
+    "solidity-shared-lib": "ChronoBank/solidity-shared-lib.git"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.1",
+    "ganache-cli": "^6.1.4",
+    "solidity-coverage": "^0.5.4",
+    "truffle": "^4.1.13"
+  }
+}

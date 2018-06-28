@@ -1,1 +1,1 @@
-# solidity-roles-lib
+# solidity-roles-lib [![Build Status](https://travis-ci.org/ChronoBank/solidity-roles-lib.svg?branch=master)](https://travis-ci.org/ChronoBank/solidity-roles-lib) [![Coverage Status](https://coveralls.io/repos/github/ChronoBank/solidity-roles-lib/badge.svg?branch=master)](https://coveralls.io/github/ChronoBank/solidity-roles-lib?branch=master)
