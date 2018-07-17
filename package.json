@@ -30,9 +30,9 @@
   },
   "homepage": "https://github.com/ChronoBank/solidity-roles-lib#readme",
   "dependencies": {
-    "solidity-shared-lib": "ChronoBank/solidity-shared-lib.git",
-    "solidity-eventshistory-lib": "chronobank/solidity-eventshistory-lib#develop",
-    "solidity-storage-lib": "ChronoBank/solidity-storage-lib.git#develop"
+    "solidity-shared-lib": "chronobank/solidity-shared-lib.git#v0.2.2",
+    "solidity-eventshistory-lib": "chronobank/solidity-eventshistory-lib#v0.1.1",
+    "solidity-storage-lib": "chronobank/solidity-storage-lib.git#v0.2.0"
   },
   "devDependencies": {
     "abi-decoder": "^1.0.9",
